@@ -6,6 +6,8 @@ This script will get you started but it will give you a semi-broken video. Howev
 ## Disclaimer
 I reached out to Rooster Teeth about a year ago to get their permission to post this. However, I was unsuccessful at getting a response. If someone from the RT team reaches out to me and asks me to remove it, I will happily comply after a short discussion of why. :)
 
+Also, I am not responsible for what you do with the tool. RT First subscriptions are reasonably priced. You should not abuse this tool or I will remove it if I catch wind of anyone using for evil purposes. This is meant only to help people who may want take some sweet sweet RT goodness on the road or travel with them or in the dark and lonely nights when the internet is down...we will pray for those people.
+
 ## Getting started
 
 ### Part 1
