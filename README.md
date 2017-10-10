@@ -1,4 +1,4 @@
-# RoosterTeeth Video Downloader
+# Rooster Teeth Video Downloader
 
 ## Important Notice
 This script will get you started but it will give you a semi-broken video. However, I provide you with instructions on how to repair the video so that you have a fully working video.
