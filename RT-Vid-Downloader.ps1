@@ -84,5 +84,4 @@ function Join-File (
     write-verbose "Join-File: finished"
 }
 
-DownloadRT-File "http://wpc.1765a.taucdn.net/801765A/video/uploads/videos/6825a41a-0545-4a1a-b6a0-2f263b33ae52/NewHLS-1080P" "Day5-S02E08-Raw.mp4"
-#http://wpc.1765a.taucdn.net/801765A/video/uploads/videos/6825a41a-0545-4a1a-b6a0-2f263b33ae52/NewHLS-1080P00003.ts
+DownloadRT-File "http://wpc.1765a.taucdn.net/801765A/video/uploads/videos/14ab8633-2e6d-4616-b92c-49c5526fc0ec/NewHLS-1080P" "RWBY-Vol5-Trailer.mp4"
